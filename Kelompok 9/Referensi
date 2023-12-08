@@ -1,0 +1,11 @@
+Referensi
+
+[1] https://en.wikipedia.org/wiki/Wavelet_transform 
+[2] https://en.wikipedia.org/wiki/Embedded_Zerotrees_of_Wavelet_transforms  
+[3] Pooyan, et al. 2005, Wavelet Compression of ECG Signals Using SPIHT Algorithm
+[4] A. Said, W. A. Pearlman, et al. A new, fast, and efficient image codec based on setpartitioning in hierarchical trees. IEEE Transactions on circuits and systems for videotechnology, 6(3):243–250, 1996
+[5] https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio 
+[6] https://github.com/manikantagangam/Image-Compression-SVD
+[7] https://github.com/dwngh/SPIHT-Image-Compression/blob/main/spiht.ipynb 
+[8] https://scikit-image.org/docs/stable/api/skimage.data.html 
+[9] https://pywavelets.readthedocs.io/en/latest/install.html 
